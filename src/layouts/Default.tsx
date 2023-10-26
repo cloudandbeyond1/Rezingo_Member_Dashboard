@@ -4,7 +4,7 @@ import { useSelector } from "react-redux";
 // store
 import { RootState } from "../redux/store";
 
-// utils
+// utils check
 import { changeHTMLAttribute } from "../utils";
 
 const loading = () => <div className=""></div>;
