@@ -7,7 +7,7 @@ import { yupResolver } from "@hookform/resolvers/yup";
 import PropTypes from "prop-types";
 import classNames from "classnames";
 
-//components
+//components  ttytyt
 import { FormInput } from "../components/";
 
 import profilePic from "../assets/images/users/user-1.jpg";
@@ -50,7 +50,7 @@ const ChatItemText = ({
   );
 };
 
-/* Chat Item */
+/* Chat Item rtrtrtr */
 const chatItemDefaultProps = {
   placement: "",
   children: PropTypes.object,
